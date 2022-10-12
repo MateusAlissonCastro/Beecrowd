@@ -1,4 +1,4 @@
-const input = require('fs').readFileSync('dados.txt', 'utf8')
+var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 const lines = input.split('\n')
 
  
