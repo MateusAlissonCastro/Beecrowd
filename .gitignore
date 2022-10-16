@@ -1,0 +1,5 @@
+#Ignorar todos arquivos com extensão .txt
+*.txt
+#Ignorar o arquivo 'teste.js'
+teste.js
+#
